@@ -20,7 +20,7 @@ A simple switch inspired by https://dribbble.com/shots/2309834-Yet-another-toggl
 Please see the demo.
 
 ##TODO##
-* more testing
+
 * make animation better
 
 ##License##

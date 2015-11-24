@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/NilStack/NKSwitch"
-  s.screenshots  = "https://db.tt/H0ZclkeB"
+  s.screenshots  = "https://db.tt/s6vMQYiN"
   s.license      = "MIT"
 
   s.author       = { "Peng Guo" => "guoleii@gmail.com" }

@@ -9,7 +9,7 @@ A simple switch inspired by https://dribbble.com/shots/2309834-Yet-another-toggl
 
 ##Usage##
 
-###Cocoapods###
+###CocoaPods###
 
      pod 'NKSwitch'
 
